@@ -1,4 +1,4 @@
-# sellIT
+# sellIT - not complete
  Simple E-commerce app built by using Django and Bootstrap template.
  
 Home:
